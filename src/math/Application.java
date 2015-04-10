@@ -66,7 +66,7 @@ public class Application {
 		  }
 		  
 
-		  
+		  reponse = true;
 		  System.out.println("Voulez-vous réessayer ? (O/N)");
 		  if (sc.nextLine() == "O"){
 			  reponse = true;
